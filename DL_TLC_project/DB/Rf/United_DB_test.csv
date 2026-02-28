@@ -1,0 +1,4 @@
+Smiles,elu1_smiles,elu2_smiles,ratio1,ratio2,Rf,Rf_type,DataSource,doi,sample_id
+COC(=O)c1ccc2nc(NC(C)(C)C)ccc2c1,CCCCCC,CCOC(C)=O,0.882244,0.117756,0.0,C,D4C,10.1021/acs.orglett.3c03742,18
+COc1ccc2nc(NC(C)(C)C)ccc2c1,CCCCCC,CCOC(C)=O,0.882244,0.117756,0.0,C,D4C,10.1021/acs.orglett.3c03742,20
+c1ccc(Nc2ccc3ccccc3n2)cc1,CCCCCC,CCOC(C)=O,0.882244,0.117756,0.0,C,D4C,10.1021/acs.orglett.3c03742,28
